@@ -1,0 +1,24 @@
+{
+  "name": "scriptpdftron",
+  "version": "1.0.0",
+  "description": "\"# scriptPDFTRON\" \r \"# scriptPDFTRON\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yagogo123/scriptPDFTRON.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yagogo123/scriptPDFTRON/issues"
+  },
+  "homepage": "https://github.com/yagogo123/scriptPDFTRON#readme",
+  "dependencies": {
+    "@pdftron/pdfnet-node": "^9.4.0",
+    "fs": "^0.0.1-security"
+  }
+}
